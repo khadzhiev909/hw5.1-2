@@ -37,6 +37,7 @@ public class Main {
 
     }
 
+
     public static void task3 () {
         System.out.println("Task 3");
         int year = 2020;
